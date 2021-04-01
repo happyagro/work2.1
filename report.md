@@ -24,7 +24,7 @@
 **Ожидаемый результат** : *Программа выведет сумму сложенных переменных*
 
 В качестве тестовых данных использовались данные :
-* [код разработчика](https://github.com/netology-code/javaqa-code/blob/master/1.2_programming/variables/src/Main.java)
+* код разработчика
 ```java
 public class Main {
   public static void main(String[] args) {
